@@ -21,7 +21,7 @@
     "gulp-rimraf": "^0.1.0",
     "gulp-uglify": "^1.0.0",
     "gulp-util": "^3.0.1",
-    "gulp-wrap": "^0.3.0",
+    "gulp-wrap": "^0.15.0",
     "merge-stream": "^0.1.5",
     "q": "^1.0.1"
   },
